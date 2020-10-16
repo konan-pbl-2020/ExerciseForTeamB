@@ -10,5 +10,6 @@ public class Main {
         System.out.println("花田拓実ですよろしく。");
         System.out.println("西村龍聖ですよろしくお願いします");
         System.out.println("都出若那です。");
+        System.out.println("鈴木ことねです。");
     }
 }
